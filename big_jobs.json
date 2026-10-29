@@ -1,4 +1,3 @@
-[{"id":101,"q":"Regnault Education of Achilles","n":6,"must":["gnault"]},
- {"id":101,"q":"Regnault Achille Chiron Louvre","n":6,"must":["gnault"]},
- {"id":101,"q":"WGA Regnault","n":8,"must":["gnault"]},
- {"id":101,"q":"Education of Achilles Louvre 1782","n":6}]
+[{"id":201,"q":"Medusa Caravaggio Uffizi","n":3,"must":["aravaggio"]},
+ {"id":202,"q":"Rondanini Medusa","n":2},
+ {"id":203,"q":"Gorgoneion engraving","n":4}]
