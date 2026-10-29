@@ -1,6 +1,6 @@
-[{"id":218,"q":"gorgon antefix","n":4,"must":["ntefix"],"w":3000},
- {"id":219,"q":"Medusa mosaic","n":4,"must":["osaic"],"w":3000},
- {"id":220,"q":"Franz von Stuck Medusa","n":1,"must":["Stuck"],"w":3000},
- {"id":221,"q":"Böcklin Medusa shield","n":1,"must":["cklin","edusa"],"w":3000},
- {"id":222,"q":"Medusa Rondanini","n":3,"must":["ondanini"],"w":3000},
- {"id":223,"q":"gorgon Corfu pediment Artemis","n":3,"w":3000}]
+[{"id":230,"q":"Zeus of Otricoli","n":2,"w":3000},
+ {"id":231,"q":"Artemision Bronze head","n":2,"w":3000},
+ {"id":232,"q":"stater Zeus head Olympia","n":3,"w":3000},
+ {"id":233,"q":"tetradrachm Zeus laureate head","n":3,"w":3000},
+ {"id":234,"q":"Jupiter de Smyrne","n":2,"w":3000},
+ {"id":235,"q":"Zeus thunderbolt coin","n":3,"w":3000}]
