@@ -1,7 +1,7 @@
 # Runs on a GitHub runner: finds each painting's canonical image via Wikidata (P18), falls back to Commons search,
 # downloads a <=6000px rendition, records the source file and licence.
 import json,re,requests,os,time
-S=requests.Session(); S.headers['User-Agent']='GHOST-art-fetch/1.0 (personal archive)'
+S=requests.Session(); S.headers['User-Agent']='GHOSTArtFetch/1.0 (https://github.com/HexHan/ghost-art-originals; personal archive) python-requests'
 os.makedirs('orig',exist_ok=True); log=[]
 def clean(t): return re.sub(r'\(.*?\)','',t).replace('detail','').strip()
 def wd_image(title,artist):
@@ -21,10 +21,10 @@ def commons_search(title,artist):
     r=S.get('https://commons.wikimedia.org/w/api.php',params=dict(action='query',list='search',srsearch=q,srnamespace=6,srlimit=5,format='json')).json()
     hits=[h['title'][5:] for h in r['query']['search'] if h['title'].lower().endswith(('.jpg','.jpeg','.png','.tif','.tiff'))]
     return hits[0] if hits else None
-for it in json.load(open('paintings.json')):
+def one(it):
     f,qid=wd_image(it['title'],it['artist']); how='wikidata'
     if not f: f=commons_search(it['title'],it['artist']); how='commons-search'
-    if not f: log.append(dict(id=it['id'],status='not found')); continue
+    if not f: log.append(dict(id=it['id'],status='not found')); return
     info=S.get('https://commons.wikimedia.org/w/api.php',params=dict(action='query',titles='File:'+f,prop='imageinfo',iiprop='url|size|extmetadata',iiurlwidth=6000,format='json')).json()
     ii=list(info['query']['pages'].values())[0]['imageinfo'][0]
     url=ii.get('thumburl') if ii['width']>6000 else ii['url']
@@ -35,4 +35,8 @@ for it in json.load(open('paintings.json')):
     lic=ii.get('extmetadata',{}).get('LicenseShortName',{}).get('value','')
     log.append(dict(id=it['id'],status='ok',how=how,file=f,qid=qid,size=f'{ii["width"]}x{ii["height"]}',license=lic,bytes=len(data)))
     print(it['id'],how,f,ii['width'],ii['height'],flush=True); time.sleep(0.5)
-json.dump(log,open('orig/log.json','w'),indent=1,ensure_ascii=False)
+import traceback
+for it in json.load(open('paintings.json')):
+    try: one(it)
+    except Exception as e: log.append(dict(id=it['id'],status='error',err=traceback.format_exc()[-600:]))
+    json.dump(log,open('orig/log.json','w'),indent=1,ensure_ascii=False)
