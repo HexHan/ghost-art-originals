@@ -1,5 +1,5 @@
-[{"id":240,"q":"Mozart Requiem Confutatis","n":3,"audio":true},
- {"id":241,"q":"Verdi Requiem Dies irae","n":3,"audio":true},
- {"id":242,"q":"Mozart Requiem Dies irae","n":3,"audio":true},
- {"id":243,"q":"Mozart Requiem Rex tremendae","n":2,"audio":true},
- {"id":244,"q":"male choir chant","n":3,"audio":true}]
+[{"id":240,"q":"Mozart Requiem Confutatis","n":3,"audio":true,"maxmb":40},
+ {"id":241,"q":"Verdi Requiem Dies irae","n":3,"audio":true,"maxmb":40},
+ {"id":242,"q":"Mozart Requiem Dies irae","n":3,"audio":true,"maxmb":40},
+ {"id":243,"q":"Mozart Requiem Rex tremendae","n":2,"audio":true,"maxmb":40},
+ {"id":244,"q":"male choir chant","n":3,"audio":true,"maxmb":40}]

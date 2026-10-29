@@ -12,6 +12,7 @@ for job in json.load(open('big_jobs.json')):
     cands.sort(reverse=True) if not job.get('audio') else None
     log.append(dict(id=job['id'],cands=[(c[1],c[2].get('width'),c[2].get('height'),c[2].get('size'),{k:v.get('value','')[:120] for k,v in (c[2].get('extmetadata') or {}).items()}) for c in cands[:10]]))
     if job.get('must'): cands=[c for c in cands if all(w.lower() in c[1].lower() for w in job['must'])]
+    if job.get('audio'): cands=[c for c in cands if 0<c[2].get('size',0)<job.get('maxmb',40)*1e6]
     for area,title,ii in cands[:job.get('n',3)]:
         url=ii['url']
         if not job.get('audio') and (ii['mime']=='image/tiff' or ii['width']>12000):
