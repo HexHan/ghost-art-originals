@@ -1,7 +1,11 @@
-[{"id":26,"q":"Thetis Achilles Styx painting","n":6},
- {"id":26,"q":"Thetis plunging Achilles into the Styx","n":6},
- {"id":73,"q":"Gavin Hamilton Achilles lamenting death of Patroclus","n":4},
- {"id":54,"q":"Education of Achilles centaur Chiron archery painting","n":8},
- {"id":101,"q":"Regnault Education of Achilles Louvre","n":4},
- {"id":102,"q":"Chiron Achilles hunting tiger painting","n":6},
- {"id":102,"q":"Achilles centaur tiger education","n":6}]
+[{"id":101,"q":"Education Achille centaure Chiron Regnault","n":3,"must":["gnault"]},
+ {"id":101,"q":"Jean-Baptiste Regnault Chiron Achilles Louvre","n":3},
+ {"id":26,"q":"Borel Thetis Achilles","n":4},
+ {"id":26,"q":"Achille plongé dans le Styx peinture","n":4},
+ {"id":26,"q":"Thetis dipping Achilles river Styx oil","n":6},
+ {"id":26,"q":"Thétis plonge Achille Styx","n":4},
+ {"id":102,"q":"Chiron Achilles hunting","n":5},
+ {"id":102,"q":"Achilles on the back of Chiron","n":5},
+ {"id":102,"q":"Education of Achilles tiger","n":5},
+ {"id":54,"q":"Chiron teaching Achilles archery lion skin painting","n":5},
+ {"id":54,"q":"Education of Achilles Batoni","n":3}]

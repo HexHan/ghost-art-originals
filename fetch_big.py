@@ -11,6 +11,7 @@ for job in json.load(open('big_jobs.json')):
             cands.append((ii['width']*ii['height'],p['title'],ii))
     cands.sort(reverse=True)
     log.append(dict(id=job['id'],cands=[(c[1],c[2]['width'],c[2]['height']) for c in cands[:8]]))
+    if job.get('must'): cands=[c for c in cands if all(w.lower() in c[1].lower() for w in job['must'])]
     for area,title,ii in cands[:job.get('n',3)]:
         url=ii['url']
         if ii['mime']=='image/tiff' or ii['width']>12000:
