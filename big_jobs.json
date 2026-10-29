@@ -1,6 +1,5 @@
-[{"id":230,"q":"Zeus of Otricoli","n":2,"w":3000},
- {"id":231,"q":"Artemision Bronze head","n":2,"w":3000},
- {"id":232,"q":"stater Zeus head Olympia","n":3,"w":3000},
- {"id":233,"q":"tetradrachm Zeus laureate head","n":3,"w":3000},
- {"id":234,"q":"Jupiter de Smyrne","n":2,"w":3000},
- {"id":235,"q":"Zeus thunderbolt coin","n":3,"w":3000}]
+[{"id":240,"q":"Mozart Requiem Confutatis","n":3,"audio":true},
+ {"id":241,"q":"Verdi Requiem Dies irae","n":3,"audio":true},
+ {"id":242,"q":"Mozart Requiem Dies irae","n":3,"audio":true},
+ {"id":243,"q":"Mozart Requiem Rex tremendae","n":2,"audio":true},
+ {"id":244,"q":"male choir chant","n":3,"audio":true}]
