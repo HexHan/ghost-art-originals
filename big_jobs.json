@@ -1,5 +1,8 @@
-[{"id":211,"q":"Bernini Medusa Capitoline","n":4},
- {"id":212,"q":"Caravaggio Medusa shield painting","n":3,"must":["aravaggio"]},
- {"id":213,"q":"Medusa head engraving Rijksmuseum","n":6},
- {"id":214,"q":"Gorgoneion relief museum","n":5},
- {"id":215,"q":"Medusa Rubens","n":3}]
+[{"id":216,"q":"gorgon black-figure","n":5,"must":["orgon"]},
+ {"id":217,"q":"gorgoneion coin","n":5},
+ {"id":218,"q":"gorgon antefix","n":4,"must":["ntefix"]},
+ {"id":219,"q":"Medusa mosaic","n":4,"must":["osaic"]},
+ {"id":220,"q":"Franz von Stuck Medusa","n":2,"must":["tuck"]},
+ {"id":221,"q":"Böcklin Medusa","n":2,"must":["edusa"]},
+ {"id":222,"q":"Medusa Rondanini","n":3,"must":["ondanini"]},
+ {"id":223,"q":"gorgon Corfu pediment Artemis","n":3}]
