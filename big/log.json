@@ -1,176 +1,114 @@
 [
  {
-  "id": 240,
+  "id": 250,
   "cands": [
    [
-    "File:Mozart - Requiem (Krips) - VII. Confutatis.flac",
+    "File:Dies.irae.ogg",
     0,
     0,
-    6348297,
+    6562097,
     {
-     "Credit": "<a href=\"https://en.wikipedia.org/wiki/Decca_Records\" class=\"extiw\" title=\"w:Decca Records\">Decca Records</a>",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Membeth&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:M",
      "LicenseShortName": "Public domain"
     }
    ],
    [
-    "File:PMLP02751-S002-06-Mozart Requiem Mass.ogg",
+    "File:Dies iræ theme (piano).ogg",
     0,
     0,
-    3612971,
+    223363,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://imslp.org/wiki/Requiem_in_D_minor,_K.626_(Mozart,_Wolfgang_Amadeus)",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "CC BY-SA 3.0"
-    }
-   ],
-   [
-    "File:W. A. Mozart - Requiem, K. 626 (Bruno Walter, Wiener Philharmoniker, Wiener Staatsopernchor, 1956) - 07. Confutatis.ogg",
-    0,
-    0,
-    699394,
-    {
-     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/MozartRequiemBruno\">archive.org</a> copy of 19",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:W. A. Mozart - Requiem - 7. Confutatis (Herbert von Karajan, Wiener Philharmoniker, Wiener Singverein, 1960).ogg",
-    0,
-    0,
-    1601876,
-    {
-     "Credit": "LP of 1960 Salzburg Festival Performance",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "Public domain"
-    }
-   ]
-  ]
- },
- {
-  "id": 241,
-  "cands": [
-   [
-    "File:ICBSA Verdi - Messa da requiem parte 03, Dies irae.ogg",
-    0,
-    0,
-    8817016,
-    {
-     "Credit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q3803706\" class=\"extiw\" title=\"d:Q3803706\"><span title=\"Italian cultural ins",
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Gabon100\" title=\"User:Gabon100\">Gabon100</a>",
      "LicenseShortName": "CC BY-SA 4.0"
     }
-   ]
-  ]
- },
- {
-  "id": 242,
-  "cands": [
-   [
-    "File:Mozart - Requiem (Krips) - III. Dies iræ.flac",
-    0,
-    0,
-    5401293,
-    {
-     "Credit": "<a href=\"https://en.wikipedia.org/wiki/Decca_Records\" class=\"extiw\" title=\"w:Decca Records\">Decca Records</a>",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "Public domain"
-    }
    ],
    [
-    "File:PDP-CH - London Philharmonic Choir, Charles Kennedy Scott - Requiem in D minor, K 626, Kyrie Eleison and Dies Irae - Mozart - Hmv-d1147-04898.flac",
+    "File:Hymny-dies-irae.ogg",
     0,
     0,
-    191557072,
+    12511639,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://pool.publicdomainproject.org/index.php?title=Hmv-d1147-04898\">http:",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:W. A. Mozart - Requiem, K. 626 (Bruno Walter, Wiener Philharmoniker, Wiener Staatsopernchor, 1956) - 03. Dies irae.ogg",
-    0,
-    0,
-    526735,
-    {
-     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/MozartRequiemBruno\">archive.org</a> copy of 19",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:W. A. Mozart - Requiem - 3. Dies iræ (Herbert von Karajan, Wiener Philharmoniker, Wiener Singverein, 1960).ogg",
-    0,
-    0,
-    1045955,
-    {
-     "Credit": "LP of 1960 Salzburg Festival Performance",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "Public domain"
-    }
-   ]
-  ]
- },
- {
-  "id": 243,
-  "cands": [
-   [
-    "File:Mozart - Requiem (Krips) - V. Rex tremendæ.flac",
-    0,
-    0,
-    7827960,
-    {
-     "Credit": "<a href=\"https://en.wikipedia.org/wiki/Decca_Records\" class=\"extiw\" title=\"w:Decca Records\">Decca Records</a>",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:PMLP02751-S002-04-Mozart Requiem Mass.ogg",
-    0,
-    0,
-    2489924,
-    {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://imslp.org/wiki/Requiem_in_D_minor,_K.626_(Mozart,_Wolfgang_Amadeus)",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://czytamysluchajac.pl/\">http://czytamysluchajac.pl/</a>",
+     "Artist": "reader: Michał Michalski, director: Sebastian Buttny",
      "LicenseShortName": "CC BY-SA 3.0"
     }
-   ],
+   ]
+  ]
+ },
+ {
+  "id": 251,
+  "cands": []
+ },
+ {
+  "id": 252,
+  "cands": []
+ },
+ {
+  "id": 253,
+  "cands": [
    [
-    "File:W. A. Mozart - Requiem, K. 626 (Bruno Walter, Wiener Philharmoniker, Wiener Staatsopernchor, 1956) - 05. Rex tremendae.ogg",
+    "File:Inleiding Singer Pur (audio).mp3",
     0,
     0,
-    666782,
+    35488110,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/MozartRequiemBruno\">archive.org</a> copy of 19",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:W. A. Mozart - Requiem - 5. Rex tremendæ (Herbert von Karajan, Wiener Philharmoniker, Wiener Singverein, 1960).ogg",
-    0,
-    0,
-    1600102,
-    {
-     "Credit": "LP of 1960 Salzburg Festival Performance",
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozar",
-     "LicenseShortName": "Public domain"
+     "Credit": "deSingel, <a rel=\"nofollow\" class=\"external free\" href=\"http://s3.eu-central-1.amazonaws.com/desingel-media/a1ib000000AI",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:DeSingel\" class=\"extiw\" title=\"w:en:DeSingel\"><span title=\"arts center in",
+     "LicenseShortName": "CC BY 4.0"
     }
    ]
   ]
  },
  {
-  "id": 244,
+  "id": 254,
+  "cands": []
+ },
+ {
+  "id": 255,
   "cands": [
    [
-    "File:Troyte's Chant - Penrhyn Male Voice Choir.ogg",
+    "File:02 Carju Nebesnyj znamennyj raspev grind Moscow Patriarchal Choir.ogg",
     0,
     0,
-    410769,
+    537498,
     {
-     "Credit": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Sain_(record_label)\" class=\"extiw\" title=\"w:en:Sain (record label)\"><span",
-     "LicenseShortName": "CC BY-SA 3.0"
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/Hor_Moskovskoj_Patriarhii__Drevnerusskij_raspe",
+     "Artist": "\"Old Russian Chant\" (<i><a href=\"https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1",
+     "LicenseShortName": "CC0"
+    }
+   ],
+   [
+    "File:04 Bogorodice Devo radujsja znamennyj raspev grind Moscow Patriarchal Choir.ogg",
+    0,
+    0,
+    452799,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/Hor_Moskovskoj_Patriarhii__Drevnerusskij_raspe",
+     "Artist": "Moscow Patriarchal Choir of the Russian Orthodox Church",
+     "LicenseShortName": "CC0"
+    }
+   ],
+   [
+    "File:05 Se Zhenih grjadet v polunowi znamennyj raspev grind Moscow Patriarchal Choir.ogg",
+    0,
+    0,
+    622191,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/Hor_Moskovskoj_Patriarhii__Drevnerusskij_raspe",
+     "Artist": "Moscow Patriarchal Choir of the Russian Orthodox Church",
+     "LicenseShortName": "CC0"
+    }
+   ],
+   [
+    "File:07 Da molchit vsjaka plot chelovecha znamennyj raspev grind Moscow Patriarchal Choir.ogg",
+    0,
+    0,
+    2158704,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/Hor_Moskovskoj_Patriarhii__Drevnerusskij_raspe",
+     "Artist": "Moscow Patriarchal Choir of the Russian Orthodox Church"
     }
    ]
   ]
