@@ -1,31 +1,206 @@
 [
  {
-  "id": 211,
+  "id": 216,
   "cands": [
    [
-    "File:Medusa head attributed to Gianlorenzo Bernini (Roma).jpg",
-    4620,
-    6174
+    "File:Attic black-figure kyathos with Perseus chasing Gorgons by Theseus Painter, side BA - Getty Museum (86.AE.146).jpg",
+    8335,
+    6807
    ],
    [
-    "File:Medusa head attributed to Gianlorenzo Bernini (Rome).jpg",
-    4148,
-    5150
+    "File:Attic black-figure kyathos with Perseus chasing Gorgons by Theseus Painter, side AB - Getty Museum (86.AE.146).jpg",
+    5766,
+    4760
    ],
    [
-    "File:Medusa by Gian Lorenzo Bernini, Musei Capitolini.jpg",
-    4148,
-    4937
+    "File:Attic black-figure kyathos with Perseus chasing Gorgons by Theseus Painter, side B - Getty Museum (86.AE.146).jpg",
+    5329,
+    4591
    ],
    [
-    "File:Roma 1007 17.jpg",
-    3648,
-    5472
+    "File:Attic black-figure kyathos with Perseus chasing Gorgons by Theseus Painter, side A - Getty Museum (86.AE.146).jpg",
+    5329,
+    4591
    ],
    [
-    "File:Medusa bust by Gian Lorenzo Bernini, 1630-1640s AD, marble - Musei Capitolini - Rome, Italy - DSC05825.jpg",
-    3648,
-    5472
+    "File:Related to the Red-Black Painter - ABV 55 92 - Gorgones - Athens NM 534 - 03.jpg",
+    5472,
+    3648
+   ],
+   [
+    "File:Anagyrous Painter - ABV 21 4 - Gorgo - Athens NM 19171.jpg",
+    5472,
+    3648
+   ],
+   [
+    "File:Early Attic black figure skyphos-krater - ABV extra - Herakles pursuing centaurs - pattern - Athens NM 16400 - 01.jpg",
+    5311,
+    3454
+   ],
+   [
+    "File:Early Attic black figure skyphos-krater - ABV extra - Herakles pursuing centaurs - pattern - Athens NM 16400 - 02.jpg",
+    5162,
+    3552
+   ]
+  ]
+ },
+ {
+  "id": 217,
+  "cands": [
+   [
+    "File:Olbia - 400-380 BC - bronze coin - gorgoneion - eagle with dolphin - Berlin MK BM 18202520.jpg",
+    4428,
+    3648
+   ],
+   [
+    "File:Neapolis (Macedonia) - 530-450 BC - silver third of stater - Gorgoneion - mill-sail incusum - München SMS.jpg",
+    3578,
+    3578
+   ],
+   [
+    "File:Neapolis (Macedonia) - 480 BC - silver stater - Gorgoneion - mill-sail incusum - München SMS.jpg",
+    3002,
+    3002
+   ],
+   [
+    "File:Kamarina AE Tetras.jpg",
+    4096,
+    2048
+   ],
+   [
+    "File:Corinth - 480-440 BC - silver trihemiobol - Pegasos - gorgoneion - München SMS.jpg",
+    2498,
+    2498
+   ],
+   [
+    "File:Monnaie - Tetras, Bronze, Sicile, Camarina - btv1b10310250m (1 of 2).jpg",
+    1910,
+    1910
+   ],
+   [
+    "File:Monnaie - Tetras, Bronze, Sicile, Camarina - btv1b103102497 (1 of 2).jpg",
+    1910,
+    1910
+   ],
+   [
+    "File:Etruria, Populonia.jpg",
+    2500,
+    1448
+   ]
+  ]
+ },
+ {
+  "id": 218,
+  "cands": [
+   [
+    "File:Gorgon-head antefix 1 - Acropolis Museum.jpg",
+    5596,
+    5638
+   ],
+   [
+    "File:Gorgon-head antefix 2 - Acropolis Museum.jpg",
+    5396,
+    5750
+   ],
+   [
+    "File:Semi-elliptical antefix of a Gorgon's head, from Taranto, end of 4th century BC, Monsters. Fantastic Creatures of Fear and Myth Exhibition, Palazzo Massimo alle Terme, Rome (12836583615).jpg",
+    4759,
+    3264
+   ],
+   [
+    "File:Circular antefix of a Gorgon's head, from Taranto, end of 6th century BC, Monsters. Fantastic Creatures of Fear and Myth Exhibition, Palazzo Massimo alle Terme, Rome (12836590275).jpg",
+    4538,
+    3259
+   ],
+   [
+    "File:0 Antéfixe - Museo Gregoriano Etrusco - Vatican (1b).JPG",
+    3504,
+    2736
+   ],
+   [
+    "File:0 Antéfixe - Museo Gregoriano Etrusco - Vatican (1a).JPG",
+    3504,
+    2736
+   ],
+   [
+    "File:Campania Reliefs 02 (49350897006).jpg",
+    2268,
+    4032
+   ]
+  ]
+ },
+ {
+  "id": 219,
+  "cands": [
+   [
+    "File:Mosaic floor with head of Medusa - Getty Museum (71.AH.110).jpg",
+    7916,
+    7843
+   ],
+   [
+    "File:Fragment of mosaic pavement with Medusa (3rd cent. A.D.) at the Archaeological Museum of Sparta.jpg",
+    5563,
+    4000
+   ],
+   [
+    "File:Tarragona MNAT Mosaic Medusa 2017 01.jpg",
+    5184,
+    3888
+   ],
+   [
+    "File:Medalló amb medusa, mosaic al museu d'Història de València.JPG",
+    4608,
+    3072
+   ],
+   [
+    "File:Mosaic floor with head of Medusa, center face - Getty Museum (71.AH.110).jpg",
+    3453,
+    4060
+   ],
+   [
+    "File:Mosaic de la Medusa del museu d'Història de València.JPG",
+    3072,
+    4559
+   ],
+   [
+    "File:Museu d'Història de València, detall del mosaic de la Medusa.jpg",
+    4498,
+    3071
+   ],
+   [
+    "File:Medusa mosaïc Rhodes.jpg",
+    4500,
+    3056
+   ]
+  ]
+ },
+ {
+  "id": 220,
+  "cands": [
+   [
+    "File:(Venice) Perseus and Medusa by Francesco Maffei - Gallerie Accademia.jpg",
+    10140,
+    8260
+   ],
+   [
+    "File:(Venice) Franz von Stuck - Medusa - Museo d'arte moderna.jpg",
+    5554,
+    5038
+   ],
+   [
+    "File:(Venice) Perseus and Medusa by Francesco Maffei.jpg",
+    4506,
+    5914
+   ],
+   [
+    "File:JEAN LOUIS THÉODORE GÉRICAULT - La Balsa de la Medusa (Museo del Louvre, 1818-19).jpg",
+    5872,
+    4008
+   ],
+   [
+    "File:Medusa 1 March 2025 01.jpg",
+    4912,
+    4210
    ],
    [
     "File:Medusa head by Gianlorenzo Bernini in Musei capitolini.jpg",
@@ -33,169 +208,149 @@
     4804
    ],
    [
-    "File:Bernini Medusa 05.jpg",
-    5184,
-    3456
+    "File:Medusa mosaïc Rhodes.jpg",
+    4500,
+    3056
    ],
    [
-    "File:Bernini Medusa 04.JPG",
-    3456,
-    5184
+    "File:Mosaico Medusa M.A.N. 01.JPG",
+    3710,
+    3295
    ]
   ]
  },
  {
-  "id": 212,
+  "id": 221,
   "cands": [
    [
-    "File:Caravaggio - Medusa - Google Art Project.jpg",
-    3369,
-    3453
+    "File:(Venice) Perseus and Medusa by Francesco Maffei - Gallerie Accademia.jpg",
+    10140,
+    8260
    ],
    [
-    "File:Scudo con testa di Medusa, Caravaggio (1597).jpg",
-    2881,
-    2060
+    "File:Shield with the Head of Medusa - 1887 - Arnold Böcklin - Kunstmuseum, Basel.jpg",
+    8992,
+    8992
    ],
    [
-    "File:Medusa by Carvaggio.jpg",
-    935,
-    955
+    "File:Böcklin-Mappe 1901 Titel.jpg",
+    7214,
+    10190
+   ],
+   [
+    "File:(Venice) Perseus and Medusa by Francesco Maffei.jpg",
+    4506,
+    5914
+   ],
+   [
+    "File:JEAN LOUIS THÉODORE GÉRICAULT - La Balsa de la Medusa (Museo del Louvre, 1818-19).jpg",
+    5872,
+    4008
+   ],
+   [
+    "File:Medusa 1 March 2025 01.jpg",
+    4912,
+    4210
+   ],
+   [
+    "File:Medusa head by Gianlorenzo Bernini in Musei capitolini.jpg",
+    3926,
+    4804
+   ],
+   [
+    "File:Medusa mosaïc Rhodes.jpg",
+    4500,
+    3056
    ]
   ]
  },
  {
-  "id": 213,
+  "id": 222,
   "cands": [
    [
-    "File:Portret van Magnus Gabriel de la Garde, RP-P-1883-A-6958.jpg",
-    4746,
-    7660
+    "File:Kustodie der Universität Greifswald - Medusa Rondanini (Zeichnung).jpg",
+    7088,
+    9024
    ],
    [
-    "File:Andromeda aan rots geketend Schilderingen in Palazzo Farnese te Rome (serietitel) Galeria nel Palazzo Farnese in Roma (serietitel), RP-P-OB-35.918.jpg",
-    7000,
-    5076
+    "File:Medusa Rondanini, Roman copy after 5th-century BC Greek original by Phidias, Glyptotek Museum, Munich (10552972534).jpg",
+    4036,
+    3140
    ],
    [
-    "File:Perseus en Andromeda Schilderingen in Palazzo Farnese te Rome (serietitel) Galeria nel Palazzo Farnese in Roma (serietitel), RP-P-H-F-59.jpg",
-    7094,
-    4932
+    "File:Bentvueghels exhibition Utrecht 2023, 178.jpeg",
+    3024,
+    4032
    ],
    [
-    "File:Perseus met het hoofd van Medusa, RP-P-OB-74.810.jpg",
-    6444,
-    5366
+    "File:Bentvueghels exhibition Utrecht 2023, 177.jpeg",
+    3024,
+    4032
    ],
    [
-    "File:Medusakop, RP-P-H-H-268.jpg",
-    4834,
-    6812
+    "File:Musée d'arts de Nantes - 165 - Méduse, Anonyme, copie Méduse Rondanini 18e siècle.jpg",
+    2848,
+    4272
    ],
    [
-    "File:Standbeeld van Perseus, RP-P-1933-352.jpg",
-    4420,
-    6520
+    "File:Musée d'arts de Nantes - 164 - Méduse, Anonyme, copie Méduse Rondanini 18e siècle.jpg",
+    2848,
+    4272
    ],
    [
-    "File:Allegorie op de verheffing van Willem IV tot stadhouder, 1747, RP-P-OB-83.907.jpg",
-    4536,
-    5838
+    "File:Musée d'arts de Nantes - 163 - Méduse, Anonyme, copie Méduse Rondanini 18e siècle.jpg",
+    2848,
+    4272
    ],
    [
-    "File:Portret van Desiderius Erasmus, RP-P-OB-55.773.jpg",
-    4426,
-    5948
+    "File:Musée d'arts de Nantes - 162 - Méduse, Anonyme, copie Méduse Rondanini 18e siècle.jpg",
+    2848,
+    4272
    ]
   ]
  },
  {
-  "id": 214,
+  "id": 223,
   "cands": [
    [
-    "File:The emperor Hadrian, Archaeological Museum of Astros.jpg",
+    "File:25262- Corfu Artemis temple pediment.jpg",
+    8085,
+    5293
+   ],
+   [
+    "File:Горгона артеміда.jpg",
     4000,
-    6016
+    3000
    ],
    [
-    "File:Cretan relief pithos - sphinx - waves terminating in griffin heads - Kassel SWhAS T 765.jpg",
-    3648,
-    5472
+    "File:Centre Close Up of the West Pediment from the Temple of Artemis in Corfu.jpg",
+    3726,
+    2741
    ],
    [
-    "File:9319 - 3rd-century lid of a sarcophagus in the Split Archaeological museum - Photo by Giovanni Dall'Orto, April 20 2026.jpg",
-    5472,
-    3648
+    "File:Titanomachy at the Gorgon pediment at Artemis Temple in Corfu.jpg",
+    3264,
+    2448
    ],
    [
-    "File:9318 - 3rd-century lid of a sarcophagus in the Split Archaeological museum - Photo by Giovanni Dall'Orto, April 20 2026.jpg",
-    5472,
-    3648
+    "File:Panther at the western pediment of the Artemis Temple in Corfu.jpg",
+    3264,
+    2448
    ],
    [
-    "File:9311 - 3rd-century gigantic sarcophagus from Salona in the Split Archaeological museum - Photo by Giovanni Dall'Orto, April 20 2026.jpg",
-    5472,
-    3648
+    "File:Khrysaor at the pediment of the Temple of Artemis in Kerkyra.jpg",
+    3264,
+    2448
    ],
    [
-    "File:9310 - 3rd-century gigantic sarcophagus from Salona in the Split Archaeological museum - Photo by Giovanni Dall'Orto, April 20 2026.jpg",
-    5472,
-    3648
+    "File:Khrysaor at the pediment of the Temple of Artemis in Corfu.jpg",
+    3264,
+    2448
    ],
    [
-    "File:9308 - 3rd-century gigantic sarcophagus from Salona in the Split Archaeological museum - Photo by Giovanni Dall'Orto, April 20 2026.jpg",
-    5472,
-    3648
-   ],
-   [
-    "File:Gorgoneion or Gorgon's head. Attachment or device from the sanctuary of Athena Chalkioikos in Sparta (27871247704).jpg",
-    5184,
-    3456
-   ]
-  ]
- },
- {
-  "id": 215,
-  "cands": [
-   [
-    "File:MedusaRubens.jpg",
-    7264,
-    3883
-   ],
-   [
-    "File:Oberhausen - Gasometer - Der schöne Schein - The Head of Medusa (Rubens) 05 ies.jpg",
-    5616,
-    3745
-   ],
-   [
-    "File:Oberhausen - Gasometer - Der schöne Schein - The Head of Medusa (Rubens) 04 ies.jpg",
-    5616,
-    3744
-   ],
-   [
-    "File:Oberhausen - Gasometer - Der schöne Schein - The Head of Medusa (Rubens) 03 ies.jpg",
-    5616,
-    3744
-   ],
-   [
-    "File:Oberhausen - Gasometer - Der schöne Schein - The Head of Medusa (Rubens) 02 ies.jpg",
-    5616,
-    3744
-   ],
-   [
-    "File:Oberhausen - Gasometer - Der schöne Schein - The Head of Medusa (Rubens) 01 ies.jpg",
-    5616,
-    3744
-   ],
-   [
-    "File:Peter Paul Rubens - Head of Medusa (Brno).jpg",
-    5703,
-    3009
-   ],
-   [
-    "File:Head of medusa 231054.jpg",
-    3456,
-    4608
+    "File:Gigantomachia at Gorgon pediment at Artemis Temple in Corfu.jpg",
+    3264,
+    2448
    ]
   ]
  }
