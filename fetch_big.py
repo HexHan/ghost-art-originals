@@ -1,5 +1,5 @@
 # Finds the largest Wikimedia Commons photo for each query and downloads it full size (no cap).
-import json,requests,os
+import json,requests,os,time
 S=requests.Session(); S.headers['User-Agent']='GHOSTArtFetch/1.0 (https://github.com/HexHan/ghost-art-originals; personal archive) python-requests'
 os.makedirs('big',exist_ok=True); log=[]
 for job in json.load(open('big_jobs.json')):
@@ -17,7 +17,15 @@ for job in json.load(open('big_jobs.json')):
         if ii['mime']=='image/tiff' or ii['width']>12000:
             q=S.get('https://commons.wikimedia.org/w/api.php',params=dict(action='query',titles=title,prop='imageinfo',iiprop='url',iiurlwidth=min(ii['width'],12000),format='json')).json()
             url=list(q['query']['pages'].values())[0]['imageinfo'][0]['thumburl']
-        data=S.get(url,timeout=300).content
+        if job.get('w') and ii['width']>job['w']:
+            q=S.get('https://commons.wikimedia.org/w/api.php',params=dict(action='query',titles=title,prop='imageinfo',iiprop='url',iiurlwidth=job['w'],format='json')).json()
+            url=list(q['query']['pages'].values())[0]['imageinfo'][0]['thumburl']
+        for tr in range(6):
+            rr=S.get(url,timeout=300); data=rr.content
+            if rr.ok and not data[:200].lstrip().lower().startswith((b'<!doctype',b'<html')): break
+            time.sleep(10*(tr+1))
+        else: continue
+        time.sleep(3)
         k=len([f for f in os.listdir('big') if f.startswith(f"{job['id']:03d}_")])
         open(f"big/{job['id']:03d}_{k}.jpg",'wb').write(data)
 json.dump(log,open('big/log.json','w'),indent=1,ensure_ascii=False)
