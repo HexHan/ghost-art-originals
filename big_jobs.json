@@ -1,11 +1,4 @@
-[{"id":101,"q":"Education Achille centaure Chiron Regnault","n":3,"must":["gnault"]},
- {"id":101,"q":"Jean-Baptiste Regnault Chiron Achilles Louvre","n":3},
- {"id":26,"q":"Borel Thetis Achilles","n":4},
- {"id":26,"q":"Achille plongé dans le Styx peinture","n":4},
- {"id":26,"q":"Thetis dipping Achilles river Styx oil","n":6},
- {"id":26,"q":"Thétis plonge Achille Styx","n":4},
- {"id":102,"q":"Chiron Achilles hunting","n":5},
- {"id":102,"q":"Achilles on the back of Chiron","n":5},
- {"id":102,"q":"Education of Achilles tiger","n":5},
- {"id":54,"q":"Chiron teaching Achilles archery lion skin painting","n":5},
- {"id":54,"q":"Education of Achilles Batoni","n":3}]
+[{"id":101,"q":"Regnault Education of Achilles","n":6,"must":["gnault"]},
+ {"id":101,"q":"Regnault Achille Chiron Louvre","n":6,"must":["gnault"]},
+ {"id":101,"q":"WGA Regnault","n":8,"must":["gnault"]},
+ {"id":101,"q":"Education of Achilles Louvre 1782","n":6}]
