@@ -1,6 +1,9 @@
-[{"id":250,"q":"Dies irae Gregorian chant","n":3,"audio":true,"maxmb":40},
- {"id":251,"q":"Orthodox chant male choir","n":3,"audio":true,"maxmb":40},
- {"id":252,"q":"Gregorian chant Kyrie","n":2,"audio":true,"maxmb":40},
- {"id":253,"q":"male voice choir a cappella","n":3,"audio":true,"maxmb":40},
- {"id":254,"q":"Rachmaninoff Vespers","n":2,"audio":true,"maxmb":40},
- {"id":255,"q":"Znamenny chant","n":2,"audio":true,"maxmb":40}]
+[{"id":260,"q":"Gaugamela Brueghel","n":2,"w":4000},
+ {"id":261,"q":"Battle of Austerlitz Gérard","n":2,"must":["Austerlitz"],"w":4000},
+ {"id":262,"q":"Battle of Lepanto painting","n":3,"must":["Lepanto"],"w":4000},
+ {"id":263,"q":"Battle of the Milvian Bridge Giulio Romano","n":2,"w":4000},
+ {"id":264,"q":"Battle of Pavia tapestry","n":3,"must":["Pavia"],"w":4000},
+ {"id":265,"q":"Battle of Marathon painting","n":3,"must":["Marathon"],"w":4000},
+ {"id":266,"q":"Battle of Salamis Kaulbach","n":2,"must":["Salamis"],"w":4000},
+ {"id":267,"q":"Battle of Valmy Vernet","n":2,"must":["Valmy"],"w":4000},
+ {"id":268,"q":"Battle of Zama painting","n":3,"must":["Zama"],"w":4000}]
