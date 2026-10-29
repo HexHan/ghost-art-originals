@@ -1,87 +1,317 @@
 [
  {
-  "id": 270,
+  "id": 280,
   "cands": [
    [
-    "File:Tiepolo Vercellae.jpg",
-    5342,
-    5851,
-    7237234,
+    "File:Fotoreproductie van een detail van een schilderij door Horace Vernet, voorstellend Napoleon Bonaparte te paard tijdens, RP-F-2004-283-28.jpg",
+    2484,
+    3472,
+    1187418,
     {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Battista_Tiepolo\" class=\"extiw\" title=\"w:en:Giovanni Battista Ti",
-     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/collections/search-the-collections/110002247?rpp",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:The Battle of Vercellae MET DT2944.jpg",
-    3367,
-    3686,
-    2503562,
-    {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Battista_Tiepolo\" class=\"extiw\" title=\"w:en:Giovanni Battista Ti",
-     "Credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.457932\">http://hdl.handle.net/1",
+     "Artist": "Rijksmuseum",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Battle of Vercellae by Giovanni Battista Tiepolo.jpg",
-    2486,
-    2722,
-    4301786,
+    "File:Napoleon.Jena.jpg",
+    2304,
+    1612,
+    855877,
     {
-     "Credit": "AA.VV., Giambattista Tiepolo 1696-1996, Milano, Skira, 1996.",
-     "Artist": "Giambattista Tiepolo",
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span> - photo made at an art auction in Belgium",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:JoJan\" title=\"User:JoJan\">JoJan</a> - artwork by Vernet and Swebach",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Napoleon.Jena (cropped).jpg",
+    2280,
+    1438,
+    726528,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span> - photo made at an art auction in Belgium",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:JoJan\" title=\"User:JoJan\">JoJan</a> - artwork by Vernet and Swebach",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Iena.jpg",
+    1955,
+    1655,
+    733870,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "Credit": "L’Histoire par l’image <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.histoire-image.org/site/oeuvre/ana",
      "LicenseShortName": "Public domain"
     }
    ],
    [
-    "File:Tiepolo Vercellae Metropolitan.jpg",
-    724,
-    762,
-    166005,
+    "File:E.Jean.Horace.Vernet.Battleof.Jena1836.jpg",
+    2000,
+    1407,
+    1051672,
     {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Battista_Tiepolo\" class=\"extiw\" title=\"w:en:Giovanni Battista Ti",
-     "Credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.worldvisitguide.com/oeuvre/photo_ME0000099517.html\">[1]</",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.kunst-fuer-alle.de/index.php?mid=77&amp;lid=1&amp;blink=76&amp",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Bataille d'Iéna, 14 octobre 1806 (Vernet).jpg",
+    1400,
+    1211,
+    184130,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "Credit": "L’Histoire par l’image <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.histoire-image.org/site/oeuvre/ana",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Napoleon-imperial-guard.png",
+    781,
+    888,
+    918920,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "Credit": "<a class=\"external free\" data-mw-original-href=\"http://de.wikipedia.org/wiki/Bild:Napoleon-und-seine-Garde.png\" href=\"ht",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Napoleon-at-Jena.jpg",
+    347,
+    418,
+    48787,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.museum.ru/1812/persons/France/141006.html\">http://www.museum.ru",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
      "LicenseShortName": "Public domain"
     }
    ]
   ]
  },
  {
-  "id": 271,
+  "id": 281,
   "cands": [
    [
-    "File:Antoine-Jean Gros - Bataille d'Aboukir, 25 juillet 1799 - Google Art Project.jpg",
-    6060,
-    3617,
-    12253292,
+    "File:Battle of Wagram Medal, 1809 (49593825486).jpg",
+    6494,
+    3240,
+    11069245,
     {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine-Jean_Gros\" class=\"extiw\" title=\"w:en:Antoine-Jean Gros\"><span tit",
-     "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\">",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:Bataille d'Aboukir, 25 juillet 1799, D.3397.jpg",
-    3700,
-    4277,
-    2667913,
-    {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/ba",
-     "Artist": "Dupré, Augustin (Saint-Etienne, 06–10–1748 - Armentières, 30–01–1833), dessinateur",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/mustangjoe/49593825486/\">Battle of Wagram Me",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63234672@N04\">Mustang Joe</a>",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Lemonnier - Gros, Laurens p047R.jpeg",
-    3653,
-    2390,
-    674263,
+    "File:Napoléon .jpg",
+    2184,
+    4608,
+    11811358,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/gros00lemo\">https://archive.org/details/gros00",
-     "Artist": "<a class=\"external free\" href=\"https://fr.wikisource.org/wiki/Auteur:Henry_Lemonnier\">https://fr.wikisource.org/wiki/Aut",
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dbertrand&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Napoleon Wagram.jpg",
+    3154,
+    2326,
+    2204081,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "Credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.biografiasyvidas.com/monografia/napoleon/fotos/napoleon_w",
      "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Le Chateau de Versailles , Palace of Versailles interiors in art 24.JPG",
+    2144,
+    1608,
+    356064,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%94%D0%B5%D0%BB%D1%84%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;r",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:A life of Napoleon Boneparte- (1901) (14580281229).jpg",
+    2096,
+    1428,
+    1411650,
+    {
+     "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14580281229/\">h",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images<",
+     "LicenseShortName": "No restrictions"
+    }
+   ],
+   [
+    "File:Napoleon.Wagram.jpg",
+    2178,
+    1250,
+    2509273,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span> - photo made at an art auction in Belgium",
+     "Artist": "Photograph: <a href=\"//commons.wikimedia.org/wiki/User:JoJan\" title=\"User:JoJan\">JoJan</a>; artwork: Antoine Charles Hor",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Napoleon (cropped).jpg",
+    1768,
+    1374,
+    843929,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "Credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.biografiasyvidas.com/monografia/napoleon/fotos/napoleon_w",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Wagram-Crossing the Danube.jpg",
+    1338,
+    800,
+    740576,
+    {
+     "Credit": "Frédéric Naulet – “Wagram, une victoire chèrement acquise”, from “Napoléon 1er Le Magazine du Consulat et de l'Empire”, ",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=Jacques_Swebach&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Jac",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Napoléon à Wagram - Horace Vernet.jpg",
+    1024,
+    867,
+    172917,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.magnoliabox.com/products/the-battle-of-wagram-6th-july-1809-42",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "LicenseShortName": "Public domain"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 282,
+  "cands": [
+   [
+    "File:Napoleon at the Battle of Rivoli.jpg",
+    2000,
+    1698,
+    966806,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_F%C3%A9lix_Emmanuel_Philippoteaux\" class=\"extiw\" title=\"w:en:Henri ",
+     "Credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.liveinternet.ru/users/mili_monte/post383225386/\">[1]</a>",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Philippoteaux Felix - Bonaparte a la bataille de Rivoli.jpg",
+    1600,
+    1270,
+    1161365,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henri_F%C3%A9lix_Emmanuel_Philippoteaux\" class=\"extiw\" title=\"w:en:Henri ",
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Stamp of Ajman - 1970 - Colnect 864589 - The Battle of Rivoli by Felix Philippoteaux.jpeg",
+    1024,
+    731,
+    189672,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://colnect.com/en/stamps/stamp/864589-The_Battle_of_Rivoli_by_Felix_P",
+     "Artist": "Post of Ajman",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Bitva u Rivoli.jpg",
+    800,
+    533,
+    175550,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Napol%C3%A9on-Bonaparte_IV&amp;action=edit&amp;redlink=1\" class=",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Stamp of Ajman - 1970 - Colnect 402165 - The Battle of Rivoli by Felix Philippoteaux.jpeg",
+    730,
+    522,
+    140862,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://colnect.com/en/stamps/stamp/402165-The_Battle_of_Rivoli_by_Felix_P",
+     "Artist": "Post of Ajman",
+     "LicenseShortName": "Public domain"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 283,
+  "cands": [
+   [
+    "File:Battle of the Pyramids (by Louis-François Lejeune).jpg",
+    3100,
+    1354,
+    451051,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Louis-Fran%C3%A7ois_Lejeune\" class=\"extiw\" title=\"w:en:Louis-François Lej",
+     "Credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.liveinternet.ru/community/camelot_club/post325671356\">[1",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Louis-François Baron Lejeune 001.jpg",
+    3000,
+    1298,
+    911877,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Louis-Fran%C3%A7ois_Lejeune\" class=\"extiw\" title=\"w:en:Louis-François Lej",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.histoire-image.org/pleincadre/index.php?m=Lejeune&amp;d=1&amp;i",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:French Revolutionary Wars.jpg",
+    1280,
+    2880,
+    3930571,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ruedi33a\" title=\"User:Ruedi33a\">Ruedi33a</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Coalition wars.jpg",
+    1280,
+    2880,
+    4004615,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ruedi33a\" title=\"User:Ruedi33a\">Ruedi33a</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Battle of the Pyramids panorama (7).png",
+    2999,
+    877,
+    6980277,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Omicro%C3%B1%27R\" class=\"mw-redirect\" title=\"User:Omicroñ'R\">Omicroñ'R</a>. V",
+     "LicenseShortName": "CC BY-SA 4.0"
     }
    ],
    [
@@ -96,200 +326,1173 @@
     }
    ],
    [
-    "File:Gros - The Battle of Abukir.png",
-    1478,
-    874,
-    1646955,
+    "File:War of the second coalition.jpg",
+    1280,
+    1440,
+    2062957,
     {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine-Jean_Gros\" class=\"extiw\" title=\"w:en:Antoine-Jean Gros\"><span tit",
-     "Credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
-     "LicenseShortName": "Public domain"
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ruedi33a\" title=\"User:Ruedi33a\">Ruedi33a</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
     }
    ],
    [
-    "File:Antoine-Jean Gros - The Battle of Abukir - WGA10705.jpg",
-    1478,
-    874,
-    186784,
+    "File:The Battle of the Pyramids 21 July 1798 by Louis-François, Baron Lejeune.jpg",
+    1500,
+    1125,
+    681646,
     {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine-Jean_Gros\" class=\"extiw\" title=\"w:en:Antoine-Jean Gros\"><span tit",
-     "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:Antoine Gros Aboukir.jpg",
-    1203,
-    845,
-    874679,
-    {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine-Jean_Gros\" class=\"extiw\" title=\"w:en:Antoine-Jean Gros\"><span tit",
-     "Credit": "Found on internet, but is PD-ART",
-     "LicenseShortName": "Public domain"
-    }
-   ],
-   [
-    "File:GrosAboukirBattle.jpg",
-    950,
-    572,
-    608762,
-    {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine-Jean_Gros\" class=\"extiw\" title=\"w:en:Antoine-Jean Gros\"><span tit",
-     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.fak09.uni-muenchen.de/Kunstgeschichte/sds_malerei/frz_malerei/4",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.histoire-image.org/pleincadre/index.php?m=Lejeune&amp;d=1&amp;i",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Louis-Fran%C3%A7ois_Lejeune\" class=\"extiw\" title=\"w:en:Louis-François Lej",
      "LicenseShortName": "Public domain"
     }
    ]
   ]
  },
  {
-  "id": 272,
+  "id": 284,
   "cands": [
    [
-    "File:Antoine-Jean Gros - The Battle of Abukir - WGA10705.jpg",
-    1478,
-    874,
-    186784,
+    "File:Bataille de tolbiac 1304348 natoire.jpg",
+    5939,
+    5151,
+    19573449,
     {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine-Jean_Gros\" class=\"extiw\" title=\"w:en:Antoine-Jean Gros\"><span tit",
-     "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=",
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:G%C3%A9rald_Garitan\" title=\"User:Gérald Garitan\">G.Garitan</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Dammartin-en-Goële Saint-Jean-Baptiste Clovis 332.JPG",
+    3776,
+    2520,
+    5983510,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:GFreihalter\" title=\"User:GFreihalter\">GFreihalter</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Clovis in Battle, by Ary Scheffer.jpg",
+    2272,
+    2884,
+    1654406,
+    {
+     "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14781780681/\">h",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images<",
+     "LicenseShortName": "No restrictions"
+    }
+   ],
+   [
+    "File:Panthéon de Paris 11 Jun 2007 n06.jpg",
+    2816,
+    1880,
+    2959835,
+    {
+     "Credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/cmoi/541104750/\">IMG_7816</a>\n</p>\n<ul><l",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69455149@N00\">Pascal Terjan</a> from London,",
+     "LicenseShortName": "CC BY-SA 2.0"
+    }
+   ],
+   [
+    "File:Legends of the Rhine (1895) (14773288193).jpg",
+    1834,
+    2644,
+    1050716,
+    {
+     "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14773288193/\">h",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images<",
+     "LicenseShortName": "No restrictions"
+    }
+   ],
+   [
+    "File:Reims, Palais du Tau, tapestry of the battle of Tolbiac.JPG",
+    2587,
+    1401,
+    2007623,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dguendel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:",
+     "LicenseShortName": "CC BY 4.0"
+    }
+   ],
+   [
+    "File:Ary Scheffer - Bataille de Tolbiac 496.jpg",
+    1999,
+    1782,
+    2015729,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ary_Scheffer\" class=\"extiw\" title=\"w:en:Ary Scheffer\"><span title=\"Dutch ",
+     "Credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.lefigaro.fr/livres/2018/02/22/03005-20180222ARTFIG00157-h",
      "LicenseShortName": "Public domain"
     }
    ],
    [
-    "File:Antoine Gros Aboukir.jpg",
-    1203,
-    845,
-    874679,
+    "File:Octave Tassaert - Clovis at the Battle of Tolbiac.jpg",
+    1512,
+    1173,
+    3033211,
     {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine-Jean_Gros\" class=\"extiw\" title=\"w:en:Antoine-Jean Gros\"><span tit",
-     "Credit": "Found on internet, but is PD-ART",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Octave_Tassaert\" class=\"extiw\" title=\"w:en:Octave Tassaert\"><span title=\"",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://museefabre.montpellier3m.fr/RESSOURCES/RECHERCHE_D_OEUVRES\">https:",
      "LicenseShortName": "Public domain"
     }
    ],
    [
-    "File:GrosAboukirBattle.jpg",
-    950,
-    572,
-    608762,
+    "File:Bapteme Clovis bataille Tolbiac Pierre Lerouge grav bois 1489 1007195.jpg",
+    624,
+    1022,
+    267102,
     {
-     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antoine-Jean_Gros\" class=\"extiw\" title=\"w:en:Antoine-Jean Gros\"><span tit",
-     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.fak09.uni-muenchen.de/Kunstgeschichte/sds_malerei/frz_malerei/4",
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:G%C3%A9rald_Garitan\" title=\"User:Gérald Garitan\">G.Garitan</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Evariste-Vital Luminais - Déroute des Germains après la bataille de Tolbiac.jpg",
+    768,
+    511,
+    88388,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:%C3%89variste_Vital_Luminais\" class=\"extiw\" title=\"w:en:Évariste Vital Lu",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=RETROUVER&amp;",
      "LicenseShortName": "Public domain"
     }
    ]
   ]
  },
  {
-  "id": 273,
+  "id": 285,
   "cands": [
    [
-    "File:Slag bij de Milvische brug, RP-P-OB-38.859.jpg",
-    8246,
-    6167,
-    10245578,
+    "File:Cornelis Cornelisz. van Haarlem - The Fall of the Titans - Google Art Project.jpg",
+    7329,
+    5689,
+    16459548,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://hdl.handle.net/10934/RM0001.COLLECT.295476\">https://hdl.handle.net",
-     "Artist": "Rijksmuseum",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\">",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Titanernes fald.jpg",
+    7328,
+    5688,
+    51385829,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.smk.dk/udforsk-kunsten/samlingerne/europaeisk-kunst-1300-1800/h",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Cornelis Cornelisz (Corneliszoon) van Haarlem (1562–1638), The Fall of the Titans, 1588–1590.jpg",
+    7190,
+    5560,
+    67240799,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/36417567@N03/31695941307/\">https://www.flick",
+     "Artist": "Tulip Hysteria / Go to albums",
+     "LicenseShortName": "PDM-owner"
+    }
+   ],
+   [
+    "File:Cornelis Cornelisz van Haarlem, Titanernes fald, , KMS1, Statens Museum for Kunst.jpg",
+    7174,
+    5536,
+    28129362,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<ul><li><a href=\"https://en.wikipedia.org/wiki/en:National_Gallery_of_Denmark\" class=\"extiw\" title=\"w:en:National Galler",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Cornelis cornelisz. van haarlem, caduta dei giganti, 1588-90, 07.jpg",
+    6720,
+    4480,
+    19469516,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<span class=\"int-own-work\">Self-photographed</span>, <a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sail",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Cornelis cornelisz. van haarlem, caduta dei giganti, 1588-90, 05.jpg",
+    6720,
+    4480,
+    16073265,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<span class=\"int-own-work\">Self-photographed</span>, <a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sail",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Cornelis cornelisz. van haarlem, caduta dei giganti, 1588-90, 03.jpg",
+    6720,
+    4187,
+    12541059,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<span class=\"int-own-work\">Self-photographed</span>, <a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sail",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Cornelis cornelisz. van haarlem, caduta dei giganti, 1588-90, 04.jpg",
+    6720,
+    4124,
+    12370615,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<span class=\"int-own-work\">Self-photographed</span>, <a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sail",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Cornelis cornelisz. van haarlem, caduta dei giganti, 1588-90, 06.jpg",
+    6531,
+    4058,
+    11971415,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<span class=\"int-own-work\">Self-photographed</span>, <a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sail",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Cornelis cornelisz. van haarlem, caduta dei giganti, 1588-90, 02.jpg",
+    3684,
+    6616,
+    11238641,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Cornelis_van_Haarlem\" class=\"extiw\" title=\"w:en:Cornelis van Haarlem\"><sp",
+     "Credit": "<span class=\"int-own-work\">Self-photographed</span>, <a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sail",
+     "LicenseShortName": "Public domain"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 286,
+  "cands": [
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 52.jpg",
+    5472,
+    3648,
+    8789402,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 50.jpg",
+    5472,
+    3648,
+    10756737,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 49.jpg",
+    5472,
+    3648,
+    9195772,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 46.jpg",
+    5472,
+    3648,
+    9041227,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 43.jpg",
+    5472,
+    3648,
+    10521198,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 42.jpg",
+    5472,
+    3648,
+    10232286,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 41.jpg",
+    3648,
+    5472,
+    9600009,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 39.jpg",
+    5472,
+    3648,
+    10341600,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 38.jpg",
+    5472,
+    3648,
+    9869383,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ],
+   [
+    "File:Giulio romano e rinaldo mantovano, caduta dei giganti, 1532-35, 35.jpg",
+    5472,
+    3648,
+    10002953,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 287,
+  "cands": [
+   [
+    "File:Église Saint-Sulpice de Paris Église La Lutte de Jacob avec l'Ange.jpg",
+    6422,
+    9245,
+    35824651,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><spa",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Eugène Delacroix — Jacob Wrestling with the Angel.jpg",
+    5388,
+    8025,
+    33361265,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Gsimonov\" title=\"User:Gsimonov\">Gleb Simonov</a>",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Paris (75006) Église Saint-Sulpice - Intérieur - La Lutte de Jacob avec l'Ange (Delacroix) - 03.jpg",
+    4000,
+    6000,
+    9932684,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:GO69\" title=\"User:GO69\">GO69</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Paris (75006) Église Saint-Sulpice - Intérieur - La Lutte de Jacob avec l'Ange (Delacroix) - 02.jpg",
+    6000,
+    4000,
+    10135356,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:GO69\" title=\"User:GO69\">GO69</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Paris (75006) Église Saint-Sulpice - Intérieur - La Lutte de Jacob avec l'Ange (Delacroix) - 01.jpg",
+    4000,
+    6000,
+    10553760,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:GO69\" title=\"User:GO69\">GO69</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Delacroix Jacob 03.JPG",
+    3456,
+    5184,
+    4258736,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:MiguelHermoso\" title=\"User:MiguelHermoso\">Miguel Hermoso Cuesta</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Delacroix Jacob 02.JPG",
+    3456,
+    5184,
+    4103871,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:MiguelHermoso\" title=\"User:MiguelHermoso\">Miguel Hermoso Cuesta</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Delacroix Jacob 01.JPG",
+    3456,
+    5184,
+    3548896,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:MiguelHermoso\" title=\"User:MiguelHermoso\">Miguel Hermoso Cuesta</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:La lutte de Jacob avec l'Ange d'E. Delacroix (église St Sulpice, Paris) - Flickr - dalbera.jpg",
+    3649,
+    4852,
+    11515544,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dalbera/45889226434/\">La lutte de Jacob avec",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72746018@N00\">Jean-Pierre Dalbéra</a>",
+     "LicenseShortName": "CC BY 2.0"
+    }
+   ],
+   [
+    "File:Jacob Wrestling with the Angel MET DP-12340-002.jpg",
+    2981,
+    4000,
+    5398331,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Eug%C3%A8ne_Delacroix\" class=\"extiw\" title=\"w:en:Eugène Delacroix\"><span ",
+     "Credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met",
+     "LicenseShortName": "CC0"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 288,
+  "cands": [
+   [
+    "File:The Battle of Fontenoy, 11th May 1745.png",
+    1764,
+    880,
+    3746403,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.bridgemanartondemand.com/art/103224/The_Battle_of_Fontenoy_11th",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Fontenoy vernet.PNG",
+    1026,
+    684,
+    2042021,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Horace_Vernet\" class=\"extiw\" title=\"w:en:Horace Vernet\"><span title=\"Fren",
+     "LicenseShortName": "Public domain"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 289,
+  "cands": [
+   [
+    "File:Marengo 1505196.jpg",
+    7952,
+    5304,
+    31719424,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:G%C3%A9rald_Garitan\" title=\"User:Gérald Garitan\">G.Garitan</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Medal commemorating Napoléon's victory at the Battle of Morengo, 1800 (44877895444).jpg",
+    7991,
+    3848,
+    18108117,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/mustangjoe/44877895444/\">Medal commemorating",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63234672@N04\">Joe deSousa</a>",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Slag bij de Milvische brug, RP-P-OB-38.858.jpg",
-    8022,
-    5914,
-    10016099,
+    "File:Bataille de Marengo, 25 prairial an VIII (14 juin 1800). ND2677.jpg",
+    6096,
+    4558,
+    4622429,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.295474\">http://hdl.handle.net/1",
-     "Artist": "Rijksmuseum",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/ba",
+     "Artist": "Andrieu, Bertrand ou Jean-Bertrand (Bordeaux, 04–11–1761 - Paris, 10–12–1822), graveur en médailles - Médailleur",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Slag bij de Milvische brug, RP-P-OB-207.708.jpg",
-    12006,
-    3722,
-    11942764,
+    "File:Bataille de Marengo, 25 et 26 prairial an VIII (14 et 15 juin 1800), ND2680.jpg",
+    6096,
+    4558,
+    4036209,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.589994\">http://hdl.handle.net/1",
-     "Artist": "Rijksmuseum",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/ba",
+     "Artist": "Lavy, Carlo ou Charles (Turin, en 1765 - Turin, 06–12–1813 — 1813), graveur en médailles - Médailleur",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Slag bij de Milvische brug, RP-P-OB-207.707.jpg",
-    11960,
-    3640,
-    12465944,
+    "File:Bataille de Marengo, 25 et 26 prairial an VIII (14 et 15 juin 1800), ND2680(2).jpg",
+    6096,
+    4558,
+    4579759,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.589989\">http://hdl.handle.net/1",
-     "Artist": "Rijksmuseum",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/ba",
+     "Artist": "Lavy, Carlo ou Charles (Turin, en 1765 - Turin, 06–12–1813 — 1813), graveur en médailles - Médailleur",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Slag bij de Milvische brug (rechter middenblad), RP-P-OB-38.936.jpg",
-    5381,
-    7884,
-    12428364,
+    "File:Bataille de Marengo, 25 prairial an VIII (14 juin 1800). ND2678.jpg",
+    5806,
+    4342,
+    4759484,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.65350\">http://hdl.handle.net/10",
-     "Artist": "Rijksmuseum",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/ba",
+     "Artist": "Andrieu, Bertrand ou Jean-Bertrand (Bordeaux, 04–11–1761 - Paris, 10–12–1822), graveur en médailles - Médailleur",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Slag bij de Milvische brug (linker blad), RP-P-OB-38.934.jpg",
-    5361,
-    7796,
-    11775083,
+    "File:245 of 'The Campaign of Marengo. With comments' (11243783824).jpg",
+    5258,
+    4020,
+    3250475,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.65348\">http://hdl.handle.net/10",
-     "Artist": "Rijksmuseum",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/britishlibrary/11243783824/\">Image taken fro",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/12403504@N02\">The British Library</a>",
+     "LicenseShortName": "No restrictions"
+    }
+   ],
+   [
+    "File:VICTOIRES ET CONQUETES DES FRANCAIS. Bataille de Marengo. G.33401.jpg",
+    5104,
+    3191,
+    11692311,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/vi",
+     "Artist": "Normand, Charles Pierre Joseph (Goyencourt, 25–11–1765 - Paris, 13–02–1840), graveur",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Slag bij de Milvische brug (rechter blad), RP-P-OB-38.937.jpg",
-    4594,
-    7188,
-    9955044,
+    "File:Bataille de Marengo, 25 prairial an VIII (14 juin 1800), ND2679.jpg",
+    4256,
+    2832,
+    5298689,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.65351\">http://hdl.handle.net/10",
-     "Artist": "Rijksmuseum",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/ba",
+     "Artist": "Andrieu, Bertrand ou Jean-Bertrand (Bordeaux, 04–11–1761 - Paris, 10–12–1822), graveur en médailles - Médailleur",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Slag bij de Milvische brug (linker middenblad), RP-P-OB-38.935.jpg",
-    4496,
-    7118,
-    10554761,
+    "File:Bataille de Marengo, 25 prairial an VIII (14 juin 1800), ND2679(2).jpg",
+    4256,
+    2832,
+    6047303,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.65349\">http://hdl.handle.net/10",
-     "Artist": "Rijksmuseum",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/ba",
+     "Artist": "Andrieu, Bertrand ou Jean-Bertrand (Bordeaux, 04–11–1761 - Paris, 10–12–1822), graveur en médailles - Médailleur",
+     "LicenseShortName": "CC0"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 290,
+  "cands": [
+   [
+    "File:The Hastings Embroidery displayed in a white domed structure on the old Hastings Pier for the centenary celebration of the Battle of Hastings.jpg",
+    7172,
+    4824,
+    7178837,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Chrisroberts-192&amp;action=edit&amp;redlink=1\" class=\"new\" titl",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Battle of Hastings 8.JPG",
+    4272,
+    2848,
+    3744609,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Antobbo_pix\" title=\"User:Antobbo pix\">Antonio Borrillo</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Battle of Hastings 7.JPG",
+    4272,
+    2848,
+    3239667,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Antobbo_pix\" title=\"User:Antobbo pix\">Antonio Borrillo</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Battle of Hastings 4.JPG",
+    4272,
+    2848,
+    3350126,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Antobbo_pix\" title=\"User:Antobbo pix\">Antonio Borrillo</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Battle of Hastings 3.JPG",
+    4272,
+    2848,
+    3347348,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Antobbo_pix\" title=\"User:Antobbo pix\">Antonio Borrillo</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Battle of Hastings 2.JPG",
+    4272,
+    2848,
+    3513927,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Antobbo_pix\" title=\"User:Antobbo pix\">Antonio Borrillo</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Battle of Hastings 1.JPG",
+    4272,
+    2848,
+    3514646,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Antobbo_pix\" title=\"User:Antobbo pix\">Antonio Borrillo</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:2016 Battle of Hastings Reenactment.jpg",
+    3796,
+    3000,
+    3606923,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mjb1981&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:M",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:The field of the Battle of Hastings (52151828).jpg",
+    3264,
+    2176,
+    4311199,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/flissphil/52151828/\">The field of the Battle",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42033648@N00\">Phillip Capper</a> from Wellin",
+     "LicenseShortName": "CC BY 2.0"
+    }
+   ],
+   [
+    "File:Battle of Hastings Battleground.JPG",
+    2272,
+    1704,
+    2334302,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "L W Favaloro",
+     "LicenseShortName": "CC BY 3.0"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 291,
+  "cands": [
+   [
+    "File:Lionel Royer. Vercingétorix devant César. G.41040.jpg",
+    4466,
+    3248,
+    9720237,
+    {
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/li",
+     "Artist": "Figaro-Salon, editeur",
      "LicenseShortName": "CC0"
     }
    ],
    [
-    "File:Slag bij de Milvische brug, RP-P-OB-38.989.jpg",
-    6354,
-    4756,
-    7641025,
+    "File:Lionel Royer - Vercingetorix Throwing down His Weapons at the feet of Julius Caesar.jpg",
+    2204,
+    1469,
+    941694,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://hdl.handle.net/10934/RM0001.COLLECT.65461\">https://hdl.handle.net/",
-     "Artist": "Rijksmuseum",
-     "LicenseShortName": "CC0"
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Lionel_Royer\" class=\"extiw\" title=\"w:en:Lionel Royer\"><span title=\"French",
+     "Credit": "<ul><li>Musée CROZATIER du <a href=\"//commons.wikimedia.org/wiki/Category:Le_Puy-en-Velay\" title=\"Category:Le Puy-en-Vel",
+     "LicenseShortName": "Public domain"
     }
    ],
    [
-    "File:Slag bij de Milvische brug, RP-P-OB-38.990.jpg",
-    5704,
-    4460,
-    6757064,
+    "File:Vercingetorix before Caesar.jpg",
+    1914,
+    1275,
+    286347,
     {
-     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.65470\">http://hdl.handle.net/10",
-     "Artist": "Rijksmuseum",
-     "LicenseShortName": "CC0"
+     "Credit": "<a href=\"//archive.org/details/hutchinsonsstory00londuoft\" class=\"extiw\" title=\"iarchive:hutchinsonsstory00londuoft\"><bd",
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Lionel_Royer\" class=\"extiw\" title=\"w:en:Lionel Royer\"><span title=\"French",
+     "LicenseShortName": "Public domain"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 292,
+  "cands": [
+   [
+    "File:Accademia - San Luigi, san Giorgio e la Principessa - Tintoretto 899.jpg",
+    4544,
+    6768,
+    22237703,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:0 St Georges et la princesse - Le Tintoret -MAC's à Hornu 1.JPG",
+    3374,
+    5122,
+    8481569,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a>",
+     "LicenseShortName": "CC BY 4.0"
+    }
+   ],
+   [
+    "File:0 St Georges et la princesse - Le Tintoret -MAC's à Hornu 2.JPG",
+    3318,
+    4979,
+    12048723,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a>",
+     "LicenseShortName": "CC BY 4.0"
+    }
+   ],
+   [
+    "File:Saints Louis and George with the Princess by Tintoretto - Accademia - Venice 2016 - crop.jpg",
+    3080,
+    4632,
+    9619090,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Tintoretto\" class=\"extiw\" title=\"w:en:Tintoretto\"><span title=\"Renaissanc",
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Saint George. Engraving by G.J. Corbould after Tintoretto. Wellcome V0032153.jpg",
+    2220,
+    3165,
+    4277391,
+    {
+     "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/d5/69/6f2e0d8b96dcbe3ee",
+     "LicenseShortName": "CC BY 4.0"
+    }
+   ],
+   [
+    "File:Jacopo Tintoretto - Saint George and the Dragon - Google Art Project.jpg",
+    1812,
+    3000,
+    5123352,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Tintoretto\" class=\"extiw\" title=\"w:en:Tintoretto\"><span title=\"Renaissanc",
+     "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Google_Arts_%26_Culture\" class=\"extiw\" title=\"w:en:Google Arts &amp; Culture\">",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Dictionary of painters and engravers (1903) (14780720281).jpg",
+    1940,
+    2258,
+    558222,
+    {
+     "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14780720281/\">h",
+     "Artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images<",
+     "LicenseShortName": "No restrictions"
+    }
+   ],
+   [
+    "File:St Georges Princess Tintoretto Accademia Cat899.jpg",
+    1500,
+    2159,
+    4103683,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Tintoretto\" class=\"extiw\" title=\"w:en:Tintoretto\"><span title=\"Renaissanc",
+     "Credit": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2010)",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Jacopo Tintoretto 010.jpg",
+    1256,
+    2145,
+    212146,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Tintoretto\" class=\"extiw\" title=\"w:en:Tintoretto\"><span title=\"Renaissanc",
+     "Credit": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Jacopo Tintoretto - St George - WGA22424.jpg",
+    927,
+    1255,
+    184328,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Tintoretto\" class=\"extiw\" title=\"w:en:Tintoretto\"><span title=\"Renaissanc",
+     "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=",
+     "LicenseShortName": "Public domain"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 293,
+  "cands": [
+   [
+    "File:0 La bataille d’Anghiari - Rubens (1).JPG",
+    4384,
+    3061,
+    11013446,
+    {
+     "Artist": "<bdi>Attributed to <a href=\"https://en.wikipedia.org/wiki/en:Peter_Paul_Rubens\" class=\"extiw\" title=\"w:en:Peter Paul Rub",
+     "Credit": "<a href=\"//commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">User:Jean-Pol GRANDMONT</",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Peter Paul Rubens's copy of The Battle of Anghiari (Leonardo da Vinci) in the Louvre, Paris, dating from 1603 and known as The Battle of the Standard 01.jpg",
+    4032,
+    1908,
+    6468430,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Qwertzu111111\" title=\"User:Qwertzu111111\">Qwertzu111111</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:La bataille d'Anghiari d'Olivier Maceratesi d'après Vinci, Rubens, Rustici et Bergeret.jpg",
+    3571,
+    2008,
+    3206100,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ricina_Helvio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Rubens Anghiarischlacht2.jpg",
+    1415,
+    987,
+    404298,
+    {
+     "Artist": "<div class=\"fn value\">\n<p><span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>\n</p>\n<dl><dd>",
+     "Credit": "Peter Paul Rubens",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Peter Paul Ruben's copy of the lost Battle of Anghiari.jpg",
+    1179,
+    857,
+    232922,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Peter_Paul_Rubens\" class=\"extiw\" title=\"w:en:Peter Paul Rubens\"><span tit",
+     "Credit": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.visi.com/~reuteler/leonardo.html\">[1]</a>",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:After leonardo da vinci, The Battle of Anghiari by Rubens, Louvre.jpg",
+    1030,
+    708,
+    160227,
+    {
+     "Artist": "<div class=\"fn value\">\n<p><span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>\n</p>\n<dl><dd>",
+     "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Artgate Fondazione Cariplo - Courtois Jacques detto il Borgognone, Battaglia.jpg",
+    800,
+    547,
+    108758,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jacques_Courtois\" class=\"extiw\" title=\"w:en:Jacques Courtois\"><span title",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.artgate-cariplo.it\">Artgate Fondazione Cariplo</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 294,
+  "cands": [
+   [
+    "File:January Suchodolski, Bitwa pod Somosierrą - hi-res tiff.tif",
+    8232,
+    6028,
+    99353396,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:January_Suchodolski\" class=\"extiw\" title=\"w:en:January Suchodolski\"><span",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://cyfrowe.mnw.art.pl/dmuseion/docmetadata?id=4791\">http://cyfrowe.mnw",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:January Suchodolski, Bitwa pod Somosierrą.jpg",
+    5906,
+    4355,
+    8926896,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:January_Suchodolski\" class=\"extiw\" title=\"w:en:January Suchodolski\"><span",
+     "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://cyfrowe.mnw.art.pl/dmuseion/docmetadata?id=4791\">http://cyfrowe.mnw",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:January Suchodolski - Battle of Somosierra.jpg",
+    2900,
+    2158,
+    2927424,
+    {
+     "Credit": "Jan Laske, Rafał Małowiecki: \"Somosierra\", Oświęcim 2013, ISBN: 978-83-7889-184-0",
+     "Artist": "January Suchodolski",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:January Suchodolski - Battle of Somosierra - MP 428 - National Museum in Warsaw.jpg",
+    2500,
+    1858,
+    997425,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:January_Suchodolski\" class=\"extiw\" title=\"w:en:January Suchodolski\"><span",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://cyfrowe.mnw.art.pl/en/catalog/509787\">National Museum in Warsaw</a",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:La batalla de Somosierra, por January Suchodolski.jpg",
+    2448,
+    1790,
+    866978,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:January_Suchodolski\" class=\"extiw\" title=\"w:en:January Suchodolski\"><span",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.pinakoteka.zascianek.pl/Suchodolski/Images/Somosierra.jpg\">www.",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:Suchodolski Battle of Somosierra.jpg",
+    750,
+    554,
+    296668,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:January_Suchodolski\" class=\"extiw\" title=\"w:en:January Suchodolski\"><span",
+     "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.pinakoteka.zascianek.pl/Suchodolski/Images/Somosierra.jpg\">www.",
+     "LicenseShortName": "Public domain"
+    }
+   ],
+   [
+    "File:January Suchodolski - Somosierra.jpg",
+    550,
+    410,
+    60625,
+    {
+     "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:January_Suchodolski\" class=\"extiw\" title=\"w:en:January Suchodolski\"><span",
+     "Credit": "January Suchodolski",
+     "LicenseShortName": "Public domain"
+    }
+   ]
+  ]
+ },
+ {
+  "id": 295,
+  "cands": [
+   [
+    "File:Sergents bouvines 1504123.jpg",
+    7062,
+    4279,
+    23754899,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:G%C3%A9rald_Garitan\" title=\"User:Gérald Garitan\">Gérald Garitan</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Sergents bouvines 1504122.jpg",
+    6468,
+    3927,
+    20506093,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:G%C3%A9rald_Garitan\" title=\"User:Gérald Garitan\">Gérald Garitan</a>",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Bouvines Monument aux morts.jpg",
+    4608,
+    3456,
+    5940132,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ottaviani\" title=\"User:Ottaviani\">Serge Ottaviani</a>",
+     "LicenseShortName": "CC BY-SA 3.0"
+    }
+   ],
+   [
+    "File:Anniversary of the Battle of Bouvines (8).jpg",
+    3220,
+    3220,
+    6473540,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographe",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Anniversary of the Battle of Bouvines (2).jpg",
+    3000,
+    3000,
+    5596288,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographe",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Anniversary of the Battle of Bouvines (5).jpg",
+    2731,
+    2731,
+    4875139,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographe",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Anniversary of the Battle of Bouvines (6).jpg",
+    2594,
+    2594,
+    4272021,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographe",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Anniversary of the Battle of Bouvines (10).jpg",
+    2516,
+    2516,
+    4380432,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographe",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Anniversary of the Battle of Bouvines (9).jpg",
+    2162,
+    2883,
+    4370880,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographe",
+     "LicenseShortName": "CC BY-SA 4.0"
+    }
+   ],
+   [
+    "File:Anniversary of the Battle of Bouvines (11).jpg",
+    2438,
+    2438,
+    4434606,
+    {
+     "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+     "Artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographe",
+     "LicenseShortName": "CC BY-SA 4.0"
     }
    ]
   ]
