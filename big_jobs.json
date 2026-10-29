@@ -1,3 +1,5 @@
-[{"id":201,"q":"Medusa Caravaggio Uffizi","n":3,"must":["aravaggio"]},
- {"id":202,"q":"Rondanini Medusa","n":2},
- {"id":203,"q":"Gorgoneion engraving","n":4}]
+[{"id":211,"q":"Bernini Medusa Capitoline","n":4},
+ {"id":212,"q":"Caravaggio Medusa shield painting","n":3,"must":["aravaggio"]},
+ {"id":213,"q":"Medusa head engraving Rijksmuseum","n":6},
+ {"id":214,"q":"Gorgoneion relief museum","n":5},
+ {"id":215,"q":"Medusa Rubens","n":3}]
